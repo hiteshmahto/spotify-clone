@@ -15,8 +15,8 @@ A Spotify-clone built with React and Vite, featuring basic music playback functi
 
 ![Home Page - Desktop View](/screenshots/home-desktop.png)
 ![Album Page - Desktop View](/screenshots/album-desktop.png)
-![Home Page - Mobile View](/screenshots/home-mobile.png)
-![Album Page - Mobile View](/screenshots/album-mobile.png)
+<img src="/screenshots/home-mobile.png" alt="Home Page - Mobile View" width="40%">
+<img src="/screenshots/album-mobile.png" alt="Album Page - Mobile View" width="40%">
 
 ## Deployed App
 
