@@ -41,6 +41,12 @@ import img16 from "./img16.jpg";
 import song1 from "./song1.mp3";
 import song2 from "./song2.mp3";
 import song3 from "./song3.mp3";
+import song4 from "./song4.mp3";
+import song5 from "./song5.mp3";
+import song6 from "./song6.mp3";
+import song7 from "./song7.mp3";
+import song8 from "./song8.mp3";
+import song9 from "./song9.mp3";
 
 export const assets = {
   bell_icon,
@@ -117,66 +123,74 @@ export const albumsData = [
 export const songsData = [
   {
     id: 0,
-    name: "Wellerman",
+    name: "Mero Lehnga",
     image: img1,
     file: song1,
-    desc: "By Nathan Evans",
-    duration: "2:36",
+    desc: "By Sandhya Choudhary",
+    duration: "3:19",
   },
   {
     id: 1,
-    name: "At My Worst",
+    name: "Hind Ke Sitara",
     image: img2,
     file: song2,
+    desc: "By Manoj Tiwari",
+    duration: "5:17",
+  },
+  {
+    id: 2,
+    name: "Gulabi Sadi",
+    image: img3,
+    file: song3,
+    desc: "By Sanju Rathod",
+    duration: "3:43",
+  },
+  {
+    id: 3,
+    name: "Wellerman",
+    image: img4,
+    file: song4,
+    desc: "By Nathan Evans",
+    duration: "2:35",
+  },
+  {
+    id: 4,
+    name: "1, 2, 3",
+    image: img5,
+    file: song5,
+    desc: "By Sofia Reyes",
+    duration: "3:23",
+  },
+  {
+    id: 5,
+    name: "At My Worst",
+    image: img6,
+    file: song6,
     desc: "By Pink Sweats",
     duration: "3:12",
   },
   {
-    id: 2,
-    name: "1, 2, 3",
-    image: img3,
-    file: song3,
-    desc: "By Sofia Reyes",
-    duration: "2:32",
-  },
-  {
-    id: 3,
-    name: "Song Four",
-    image: img4,
-    file: song1,
-    desc: "Put a smile on your face with these happy tunes",
-    duration: "2:50",
-  },
-  {
-    id: 4,
-    name: "Song Five",
-    image: img5,
-    file: song2,
-    desc: "Put a smile on your face with these happy tunes",
-    duration: "3:10",
-  },
-  {
-    id: 5,
-    name: "Song Six",
-    image: img14,
-    file: song3,
-    desc: "Put a smile on your face with these happy tunes",
-    duration: "2:45",
-  },
-  {
     id: 6,
-    name: "Song Seven",
+    name: "Bella Ciao",
     image: img7,
-    file: song1,
-    desc: "Put a smile on your face with these happy tunes",
-    duration: "2:18",
+    file: song7,
+    desc: "La Casa De Papel",
+    duration: "2:15",
   },
   {
     id: 7,
-    name: "Song Eight",
+    name: "Lonely",
     image: img12,
-    file: song2,
-    desc: "Put a smile on your face with these happy tunes",
-    duration: "2:35",
+    file: song8,
+    desc: "By Akon",
+    duration: "4:24",
+  },
+  {
+    id: 8,
+    name: "Falling",
+    image: img14,
+    file: song9,
+    desc: "By Trevor Daniel",
+    duration: "2:39",
   },
 ];
