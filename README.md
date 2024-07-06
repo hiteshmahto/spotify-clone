@@ -34,9 +34,9 @@ Make sure you have Node.js and npm installed.
 
 1. Clone the repo
 
-   ```sh
+```bash
    git clone https://github.com/hiteshmahto/spotify-clone.git
-   ```
+```
 
 2. Navigate to the project directory:
 
